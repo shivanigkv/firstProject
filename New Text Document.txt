@@ -1,0 +1,116 @@
+Userfule links--
+http://docs.oracle.com/javase/8/
+http://docs.oracle.com/javase/6/docs/technotes/guides/management/toc.html
+=====================================================
+take profile from some professional and update yours accordingly...
+design pattern
+
+
+
+------
+
+
+===========================================
+operating system  practically
+networking
+anything else??
+
+unix
+
+------------------------------------
+what is need of IOC or DI in spring??
+
+=============================
+Ptoject
+
+universal adapter concept(Mq and all coding)
+all profiles--ask devops team +db connection??
+codegen Local+central
+SCT(POS-config)
+IL process and request
+================================
+
+How a application(desktop and web) work actually
+These URLs work everywhere--even if you are behind a firewall or proxy. In certain cases, if you'd rather use SSH, you might be able to use SSH over the HTTPS port.why maven not???
+====================General java problems=========
+q:how eclipse launcher works
+---------------------------
+Java Virtual Machine Launcher
+---------------------------
+Error: opening registry key 'Software\JavaSoft\Java Runtime Environment'
+---------------------------
+OK   
+---------------------------
+
+Make sure you remove any java.exe, javaw.exe and javaws.exe from your Windows\System32 folder and if you have an x64 system (Win 7 64 bits) also do the same under Windows\SysWOW64.
+
+=======================================
+https://github.com/shivanigkv/Spoon-Knife.git
+
+
+=================================================
+EDIT: The original question was about what open source project to read in order to learn Java.
+
+If you need to learn the language, you better read and study books like:
+jvm troubleshooting
+
+Learn Java in 21 days.
+Effective Java.
+Clean code.
+GoF Design Patterns.
+Then read example code for every framework your hands can get into and making your own projects should be the priority. You cannot learn a new framework unless you have coded in it, so go ahead and make it work.
+
+Then re-read the books.
+
+Then read the Java class library.
+
+Then re-read the books.
+
+Then learn some tools like Eclipse, Ant, maven, Gradle, Git, Hg, Tortoise Hg, learn to use the debugger, learn to use the profiler, learn about refactoring. Store all your code in github and bitbucket.
+
+Learn more frameworks. Learn Hibernate. Learn Spring, the mother of all frameworks. Read the Spring source and memorize it.
+
+Rewrite all the frameworks you just learnt from scratch. This is to make sure you learnt them well. If you forgot some part or can't make it work, you are allowed to peek into the source of the framework. You will learn a lot by doing this.
+
+Then learn some methodologies like ISO-9000, CMMI, PMI, Six Sigma, RUP. Then unlearn them and learn agile methodologies like Scrum, eXtreme Programming, Kanban, Lean Development. Write some blogs about all your discoveries. Share the fun with others.
+
+Then learn how to create threads and manage them. Create several multithreaded programs and make sure they run faster than the single threaded program. Then learn about the synchornized keyword in order to make them run slower, but deliver correct results.
+
+Then learn about ReaderWriter locks. Use them and measure how faster they are than threads managed by simple synchronization. Write a paper explaning your findings.
+
+Learn about reentrancy and ReentrantReaderWriter locks.
+
+Learn about WorkManager and how to use threading without actually controlling the threads.
+
+Read about CAS and non blocking synchronization. Write programs that show that non blocking sychronization is way better than using locks. Learn about the ABA problem.
+
+Learn about convoy formations.
+
+Learn about the why the double checked locking was broken. The "Double-Checked Locking is Broken" Declaration
+
+Learn how it was solved by changing the Java memory model in Java 5 by extending the behavior of volatile (explained in the same link).
+
+Then get all the Java certifications from Oracle.
+
+Then read the Java EE spec, in its many incantations until Java EE 7 and memorize all its differences from version to version.
+
+Then learn Vert.x, Hazelcast, Cassandra, Kafka and create apps than run 1,000 times faster. Read the source of those until you understand it. Then memorize it. Then rewrite all of them from memory.
+
+Then teach all of the above to the younger generation of programmers, because when you have done all of the above you will be more than 100 years old.
+=================================================
+
+To implement the Java Virtual Machine correctly, you need only be able to read the class file format and correctly perform the operations specified therein. Implementation details that are not part of the Java Virtual Machine's specification would unnecessarily constrain the creativity of implementors. For example, the memory layout of run-time data areas, the garbage-collection algorithm used, and any internal optimization of the Java Virtual Machine instructions (for example, translating them into machine code) are left to the discretion of the implementor.
+
+stateful and stateless bean?
+
+==================================
+pick one concept daily java///data structure,oops
+read spring///design patterns
+webservice
+hibernate
+servlets jsp
+xml,JSON,unix command
+javascript,AJAX
+distributed computing
+=============================
+

@@ -1,0 +1,65 @@
+Exceptions--done
+Threading--partially
+Collections--partia;lly
+generics--done
+annotation--done
+string
+-----------------
+WEbservices
+
+implementation classes
+
+OAP supports SSL security and WS-security(Web Service-security); REST only supports SSL security;
+SOAP supports ACID (Atomicity, Consistency, Isolation, Durability); REST supports transactions, but it is neither ACID compliant nor can provide two phase commit. 
+sax parser
+-------------
+struts
+------------
+jsp servlets
+-------
+spring
+-------
+design patterns
+----------
+general java questions
+jms
+-----------------
+exceptions in jsp
+qualifiers in spring
+connection pool--thread,server
+thread code
+singleton code
+how to timeout a thread
+generic implemention
+---------------------
+thread(complete with concurrent executor classes),pools,jdbc pools,production problems--Performance Analysis for Java Web Sites
+design patterns
+spring concepts
+rest,microservices
+hibernate
+------------
+project migration
+some issues you worked upon
+class loading problem
+some accomplishments
+technologies performance issues
+jvm issues(errors and exceptions)
+jvm architecture and problems and resolutions steps
+how to improve performance of a java job--https://www.javacodegeeks.com/2015/02/top-10-common-java-performance-problems.html
+load balancer..cluster...server instances
+---------------------
+spring
+microservices/rest
+production issues
+design patterns
+design issues
+
+----------------------------------
+Java Performance The Definitive Guide By Scott Oaks or the Java Performance by Binu John
+jvm specification
+jit
+
+http://javarevisited.blogspot.com/2011/09/javalangoutofmemoryerror-permgen-space.html
+
+Read more: http://javarevisited.blogspot.com/2011/09/javalangoutofmemoryerror-permgen-space.html#ixzz4ZdM3Ctzl
+--------------------
